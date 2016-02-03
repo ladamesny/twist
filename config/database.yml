@@ -1,8 +1,8 @@
 development:
   adapter: postgresql
   database: twist_dev
-
+  host: localhost
 test:
   adapter: postgresql
   database: twist_test
-
+  host: localhost
